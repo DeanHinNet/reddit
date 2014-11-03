@@ -1,0 +1,24 @@
+a {
+	text-decoration: none;
+}
+
+.preview, .sub-info{
+	display: inline-block;
+}
+
+.title {
+	font-size: 1.10em;
+}
+
+.info {
+	font-size: .85em;
+}
+
+.stats {
+	color: gray;
+}
+
+.options {
+	font-size: .90em;
+	font-weight: bold;
+}
